@@ -3,5 +3,5 @@ jdk:
   - oraclejdk8
 notifications:
   email:
-    - badri.j@thoughtworks.com
-    - mjayaram@thoughtworks.com
+    - alexdotterweich@berkeley.edu
+
